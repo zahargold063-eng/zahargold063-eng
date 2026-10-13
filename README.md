@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0f2a17,100:238636&height=220&section=header&text=Golodnikov%20Zakhar&fontColor=e6edf3&fontSize=48&fontAlignY=40&desc=%E2%9C%A6%20студент%20·%20C%2B%2B%20·%20Python%20·%20ИИ%20%E2%9C%A6&descAlignY=64&descSize=17&animation=twinkling" alt="header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:0f2a17,100:238636&height=200&section=header&text=Golodnikov%20Zakhar&fontColor=e6edf3&fontSize=48&fontAlignY=36&desc=%E2%9C%A6%20студент%20·%20C%2B%2B%20·%20Python%20·%20ИИ%20%E2%9C%A6&descAlignY=58&descSize=17&animation=fadeIn" alt="header" width="100%"/>
 
-<a href="https://github.com/zahargold063-eng">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=900&color=3FB950&center=true&vCenter=true&width=640&lines=Привет!+Я+Захар+%F0%9F%91%8B;Курск+·+КГУ+·+Samsung+IT+Academy;Учу+C%2B%2B+с+нуля+%E2%9A%99%EF%B8%8F;Пишу+на+Python+%F0%9F%90%8D;Расту+в+сторону+искусственного+интеллекта+%F0%9F%A7%A0;Делаю+проект+вместе+с+наставником+из+Samsung+%F0%9F%9A%80" alt="typing" />
-</a>
+<img src="typing.svg" alt="typing" width="720" />
 
 <br><br>
 
@@ -80,7 +78,10 @@ zakhar@kursk:~$ _
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zahargold063-eng&bg_color=0d1117&color=3fb950&line=238636&point=e6edf3&area=true&area_color=238636&hide_border=true&custom_title=Contribution%20graph" alt="activity" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zahargold063-eng/zahargold063-eng/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/zahargold063-eng/zahargold063-eng/output/github-snake.svg" alt="змейка ест мои коммиты" width="100%" />
+</picture>
 
 <br>
 
