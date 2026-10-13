@@ -10,6 +10,10 @@
 <img src="https://img.shields.io/badge/status-learning%20in%20public-0d1117?style=for-the-badge&labelColor=0d1117&color=3fb950" alt="status" />
 <img src="https://img.shields.io/badge/mood-%E2%9C%A8%20locked%20in-0d1117?style=for-the-badge&labelColor=0d1117&color=3fb950" alt="mood" />
 
+<br><br>
+
+<img src="assets/robot.gif" alt="мой ИИ-робот" width="200" />
+
 </div>
 
 <br>
